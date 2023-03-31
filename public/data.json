@@ -1,6 +1,52 @@
 [
   {
     "id": 1,
-    
+    "author_name": "Mr. Raju",
+    "author_image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvdHJhaXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Why should you learn JavaScript and React.js",
+    "blog_cover_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "reading_time": 5,
+    "publish_date": "Mar 27 (4 Days ago)",
+    "tags": ["#programming", "#javascript", "#react"]
+  },
+  {
+    "id": 2,
+    "author_name": "Md. Shimul",
+    "author_image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvdHJhaXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Why should you learn JavaScript and React.js",
+    "blog_cover_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "reading_time": 5,
+    "publish_date": "Mar 27 (4 Days ago)",
+    "tags": ["#programming", "#javascript", "#react"]
+  },
+  {
+    "id": 3,
+    "author_name": "Ahsanullah",
+    "author_image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvdHJhaXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Why should you learn JavaScript and React.js",
+    "blog_cover_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "reading_time": 5,
+    "publish_date": "Mar 27 (4 Days ago)",
+    "tags": ["#programming", "#javascript", "#react"]
+  },
+  {
+    "id": 4,
+    "author_name": "John doe",
+    "author_image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvdHJhaXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Why should you learn JavaScript and React.js",
+    "blog_cover_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "reading_time": 5,
+    "publish_date": "Mar 27 (4 Days ago)",
+    "tags": ["#programming", "#javascript", "#react"]
+  },
+  {
+    "id": 5,
+    "author_name": "Mr. Wick",
+    "author_image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvdHJhaXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Why should you learn JavaScript and React.js",
+    "blog_cover_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "reading_time": 5,
+    "publish_date": "Mar 27 (4 Days ago)",
+    "tags": ["#programming", "#javascript", "#react"]
   }
 ]
