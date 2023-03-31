@@ -35,8 +35,11 @@ const SingleBlogCard = ({ blogData }) => {
             <p className='text-sm'>{blogData.publish_date}</p>
           </div>
         </div>
-        <div>
-          <p className='font-semibold'>{blogData.reading_time} min read</p>
+        <div className='flex'>
+          <p className='font-semibold mr-5'>{blogData.reading_time} min read</p>
+          <button><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
+          </svg></button>
         </div>
       </div>
       <h2 className='text-3xl font-bold'>{blogData.blog_title}</h2>
@@ -46,7 +49,7 @@ const SingleBlogCard = ({ blogData }) => {
         }
       </div>
       <button className='text-indigo-500 font-semibold underline'>Mark As Read</button>
-      <hr className='my-8'/>
+      <hr className='my-8' />
     </div>
   )
 }
